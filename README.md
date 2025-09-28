@@ -1,4 +1,4 @@
-# Development of an Age- and Sex-Specific Metabolomics-Based Biological Ageing Clock for 10-Year Mortality Prediction
+# Development of Age- and Sex-Specific Metabolomics-Based Biological Ageing Clocks for 10-Year Mortality Prediction
 
 Code files in this repository covers the main analyses:
 
